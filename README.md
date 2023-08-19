@@ -1,1 +1,1 @@
-This app works with a resolution of 2772×1240
+This app is best displayed at 2772*1240 resolution
